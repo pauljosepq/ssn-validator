@@ -107,3 +107,9 @@ Also:
 > Introduce a Social Security Number: 431-63-0000
 >
 > Invalid
+
+## References
+
+- [Readme](Readme.md)
+
+- [User Manual](User-manual.md)

@@ -76,3 +76,9 @@ In order to clone the application's repository execute the following commands fr
 ## Application dependencies
 
 To install all application dependencies it will necessary to execute `npm install` in the application root directory.
+
+## References
+
+- [User Manual](User-manual.md)
+
+- [Test Plan](Test-plan.md)
