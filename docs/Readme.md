@@ -11,15 +11,15 @@ To install node.js you will need to retrive binaries or installer depending on t
 
      > <https://nodejs.org/en/download/>
 
-1. Execute the `node-v16.15.0-x64.msi` or `node-v16.15.0-x86.msi`
+1. Execute the **node-v16.15.0-x64.msi** or **node-v16.15.0-x86.msi**
 
 1. This will open the setup wizard process. To complete the process:
 
-   - Accept the License Agreement and click `next`.
+   - Accept the License Agreement and click **next**.
 
-   - Select the destination directory and click `next` three times.
+   - Select the destination directory and click **next** three times.
 
-   - Click `Install`
+   - Click **Install**
 
 ### Linux (Ubuntu)
 
@@ -49,9 +49,9 @@ Also it will be necessary to install git to clone the application's repository.
 
 1. Download the x32 or x64 Windows Setup depending on architecture.
 
-1. Execute `Git-2.36.1-64-bit.exe` or `Git-2.36.1-32-bit.exe`
+1. Execute **Git-2.36.1-64-bit.exe** or **Git-2.36.1-32-bit.exe**
 
-1. Click `next` untill you get the install button then press `install`
+1. Click **next** untill you get the install button then press **install**
 
 ### Linux (Ubuntu)
 
@@ -66,7 +66,7 @@ Also it will be necessary to install git to clone the application's repository.
 
 ## Clone repository
 
-In order to clone the application's repository execute the following commands from the `git bash` or `bash`:
+In order to clone the application's repository execute the following commands from the **git bash** or **bash**:
 
    ```bash
    git clone https://github.com/pauljosepq/ssn-validator
