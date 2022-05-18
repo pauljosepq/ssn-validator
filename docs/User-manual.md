@@ -16,6 +16,6 @@ The valid SSN (Social Security Number) must satisfy the following conditions:
 
 ## References
 
-- [Readme](Readme.md)
+- [Readme](../Readme.md)
 
 - [Test Plan](Test-plan.md)

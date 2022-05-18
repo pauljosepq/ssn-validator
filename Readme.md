@@ -79,6 +79,6 @@ To install all application dependencies it will necessary to execute `npm instal
 
 ## References
 
-- [User Manual](User-manual.md)
+- [User Manual](./docs/User-manual.md)
 
-- [Test Plan](Test-plan.md)
+- [Test Plan](./docs/Test-plan.md)
